@@ -11,3 +11,5 @@ show: visualization of MoE result
 
 train*: different experiments
 
+The image shows the parameters used to a network trained using MoE dynamics while maintaining similar performance.
+https://github.com/zhaoyiming/MoE-for-SV/blob/main/show/01_gray.jpg
