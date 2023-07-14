@@ -3,6 +3,11 @@ Implement for MoE in SV region
 
 Implement two dynamic network, which is similar to a speical MoE, enabling conv layer to effectively utilize its parameters.
 
+reference:
+1. Dynamic conv https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1912.03458
+
+2. WeightNet https://link.zhihu.com/?target=https%3A//arxiv.org/abs/2007.11823
+
 config: setting files 
 
 models: model
