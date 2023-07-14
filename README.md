@@ -13,5 +13,5 @@ train*: different experiments
 
 The image shows the parameters used to a network trained using MoE dynamics while maintaining similar performance.
 
-![Image text](https://github.com/zhaoyiming/MoE-for-SV/blob/main/show/01_gray.jpg)https://github.com/zhaoyiming/MoE-for-SV/blob/main/show/01_gray.jpg
+![Image text](https://github.com/zhaoyiming/MoE-for-SV/blob/main/show/01_gray.jpg)
 
